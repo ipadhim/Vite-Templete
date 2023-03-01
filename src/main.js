@@ -3,5 +3,3 @@
  * JavaScript入口文件
  * For SPCTeam
  */
-
-"use strict";
